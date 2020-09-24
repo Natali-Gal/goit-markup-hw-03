@@ -304,6 +304,10 @@ img {
     margin-bottom: 0;
 }
 
+.project-nav-section {
+    padding-bottom: 94px;
+}
+
 .projects-nav {
     padding-top: 94px;
     padding-bottom: 20px;
@@ -400,6 +404,7 @@ img {
     background: #2F303A;
     padding-top: 60px;
     padding-bottom: 60px;
+    
    
 }
 
